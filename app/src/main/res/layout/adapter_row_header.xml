@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:textAllCaps="true"
+    android:textStyle="bold"
+    android:textSize="13sp"
+    android:layout_marginRight="@dimen/margin_l"
+    android:layout_marginLeft="@dimen/margin_l"
+    android:layout_marginBottom="2dp"
+    android:layout_marginTop="@dimen/margin_l"
+    android:textColor="#BDBDBD"
+    android:text="@string/coffe_list_header"
+    android:layout_height="wrap_content"/>

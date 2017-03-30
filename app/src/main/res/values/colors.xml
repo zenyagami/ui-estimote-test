@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#7a56b7</color>
+    <!--this should be darker for material design.... we are using the same as the mock up-->
+    <color name="colorPrimaryDark">#7a56b7</color>
+    <!--im using material colors-->
+    <color name="colorAccent">#FF4081</color>
+    <color name="color_promo_on">#8BC34A</color>
+    <color name="color_promo_off">#9E9E9E</color>
+</resources>
